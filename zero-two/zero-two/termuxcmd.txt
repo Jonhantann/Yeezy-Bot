@@ -1,41 +1,43 @@
   🌙 . Comandos Termux ݁ ݂ ͡ ༒︎ 
   
-💞 [1] termux-change-repo
+💤 01. termux-change-repo
 - aperta em ok e depois marque a 3° caixinha e aperta ok
 
-💞 [2] apt-get upgrade -y
+💤 02. apt-get upgrade -y
 
-💞 [3] apt-get update -y
+💤 03. apt-get update -y
 - toda vez que aparecer uma pergunta de y ou n? vc sempre da enter ou digita y
 
-💞 [4] pkg upgrade -y
+💤 04. pkg upgrade -y
 
-💞 [5] pkg update -y 
+💤 05. pkg update -y 
 
-💞 [6] pkg install nodejs -y 
+💤 06. pkg install nodejs -y 
 
-💞 [7] pkg install nodejs-lts -y
+💤 07. pkg install nodejs-lts -y
 
-💞 [8] pkg install ffmpeg -y 
+💤 08. pkg install ffmpeg -y 
 
-💞 [9] pkg install wget -y 
+💤 09. pkg install wget -y 
 
-💞 [10] pkg install tesseract -y
+💤 10. pkg install tesseract -y
 
-💞 [11] pkg install git -y
+💤 11. pkg install git -y
 
-💞 [12] termux-setup-storage
+💤 12. termux-setup-storage
 - permte o acesso ao seu armazenamento
 
-//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS DIRETÓRIO)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
-💞 [14] cd /sdcard/nomedobot
-💞 [15] cd /sdcard/download/nomedobot
+  🌙 . Comandos Diretorio ݁ ݂ ͡ ༒︎ 
 
-//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS INICIALIZAÇÃO)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
-💞 [1] sh start.sh
+🍄 [14] cd /sdcard/nomedobot
+🍄 [15] cd /sdcard/download/nomedobot
+
+  🌙 . Comandos inicialização ݁ ݂ ͡ ༒︎ 
+
+🔥 [1] sh start.sh
 - inicia a conexão por qrcode 
 
-💞 [2] npm start
+🔥 [2] npm start
 - inicia a conexão por código
 
 //_-_-_-_-_-_-_-_-_-_-_-_-(CRÉDITOS)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
