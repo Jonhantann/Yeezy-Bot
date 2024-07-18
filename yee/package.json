@@ -1,10 +1,10 @@
 {
-  "name": "zero-two",
+  "name": "yeezy",
   "version": "1.0.0",
   "description": "Um exemplo de projeto",
   "main": "index.js",
   "scripts": {
-    "start": "yee/start.sh"
+    "start": "yee/zero-two/start.sh"
   },
   "author": "Jonhantann",
   "license": "ISC",
