@@ -1,0 +1,48 @@
+//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS TERMUX)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+💞 [1] termux-change-repo
+- aperta em ok e depois marque a 3° caixinha e aperta ok
+
+💞 [2] apt-get upgrade -y
+
+💞 [3] apt-get update -y
+- toda vez que aparecer uma pergunta de y ou n? vc sempre da enter ou digita y
+
+💞 [4] pkg upgrade -y
+
+💞 [5] pkg update -y 
+
+💞 [6] pkg install nodejs -y 
+
+💞 [7] pkg install nodejs-lts -y
+
+💞 [8] pkg install ffmpeg -y 
+
+💞 [9] pkg install wget -y 
+
+💞 [10] pkg install tesseract -y
+
+💞 [11] pkg install git -y
+
+💞 [12] termux-setup-storage
+- permte o acesso ao seu armazenamento
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS DIRETÓRIO)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+💞 [14] cd /sdcard/nomedobot
+💞 [15] cd /sdcard/download/nomedobot
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS INICIALIZAÇÃO)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+💞 [1] sh start.sh
+- inicia a conexão por qrcode 
+
+💞 [2] npm start
+- inicia a conexão por código
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(CRÉDITOS)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+by: 𖧄 𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀 𖧄
+whats: +55 94 99156-9380
+caanl: @Otaku.mp4
+insta: @lucas_mod_domina
+Github: https://github.com/Otakump4
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(DIREITOS AUTORAIS)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+Direitos Autorais © [2024] Zero Two Conteúdos

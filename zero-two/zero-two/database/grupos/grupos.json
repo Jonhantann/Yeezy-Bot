@@ -1,0 +1,61 @@
+[
+  {
+    "id": "matheuzinho",
+    "gps": []
+  },
+  {
+    "id": "120363219755282052@g.us",
+    "limite": 1,
+    "validado": false
+  },
+  {
+    "id": "120363176477570575@g.us",
+    "limite": 1,
+    "validado": false
+  },
+  {
+    "id": "120363179905449918@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363196574139609@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363146293640836@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363199065356319@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363169305163769@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363183420302698@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363182698505621@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363193525588420@g.us",
+    "limite": 3,
+    "validado": false
+  },
+  {
+    "id": "120363160098837921@g.us",
+    "limite": 3,
+    "validado": false
+  }
+]
