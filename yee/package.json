@@ -4,7 +4,7 @@
   "description": "Um exemplo de projeto",
   "main": "index.js",
   "scripts": {
-    "start": "yee/zero-two/start.sh"
+    "start": "zero-two/start.sh"
   },
   "author": "Jonhantann",
   "license": "ISC",
